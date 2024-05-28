@@ -1,0 +1,14 @@
+name: feat_example
+description: Feat Example package.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+
+dependencies:
+  dependencies:
+    path: ../../core/dependencies
+  flutter:
+    sdk: flutter

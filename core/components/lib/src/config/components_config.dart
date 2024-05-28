@@ -1,0 +1,2 @@
+/// [ComponentsConfig] doc
+mixin ComponentsConfig {}

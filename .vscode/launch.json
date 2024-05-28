@@ -1,0 +1,185 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "navigation-go-router-flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "navigation-go-router-flutter (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "navigation-go-router-flutter (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "components",
+            "cwd": "core/components",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "components (profile mode)",
+            "cwd": "core/components",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "components (release mode)",
+            "cwd": "core/components",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dependencies",
+            "cwd": "core/dependencies",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dependencies (profile mode)",
+            "cwd": "core/dependencies",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dependencies (release mode)",
+            "cwd": "core/dependencies",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "di",
+            "cwd": "core/di",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "di (profile mode)",
+            "cwd": "core/di",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "di (release mode)",
+            "cwd": "core/di",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "internationalization",
+            "cwd": "core/internationalization",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "internationalization (profile mode)",
+            "cwd": "core/internationalization",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "internationalization (release mode)",
+            "cwd": "core/internationalization",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "network",
+            "cwd": "core/network",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "network (profile mode)",
+            "cwd": "core/network",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "network (release mode)",
+            "cwd": "core/network",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "routes",
+            "cwd": "core/routes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "routes (profile mode)",
+            "cwd": "core/routes",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "routes (release mode)",
+            "cwd": "core/routes",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "theme",
+            "cwd": "core/theme",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "theme (profile mode)",
+            "cwd": "core/theme",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "theme (release mode)",
+            "cwd": "core/theme",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "feat_example",
+            "cwd": "features/feat_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "feat_example (profile mode)",
+            "cwd": "features/feat_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "feat_example (release mode)",
+            "cwd": "features/feat_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+name: test_flutter_web
+description: Blue Bird CLI.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  dependencies:
+    path: core/dependencies
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.5
+  melos: ^3.2.0
+
+  
+flutter:
+  uses-material-design: true
+# Generate launcher icons
+# command: flutter pub run flutter_launcher_icons
+# flutter_icons:
+#   android: true
+#   ios: true
+#
+#   image_path: "assets/native/icon.png"
+
+# Generate native splash
+# command: flutter pub run flutter_native_splash:create
+# flutter_native_splash:
+#   android: true
+#   ios: true
+
+#   image: ./assets/native/image.png
+#   color: "#FFFFFF"
+#   image_dark: ./assets/native/image.png
+#   color_dark: "#FFFFFF"
+
+#   android_12:
+#     image: ./assets/native/image.png
+#     icon_background_color: "#FFFFFF"
+#     image_dark: ./assets/native/image.png
+#     icon_background_color_dark: "#FFFFFF"
